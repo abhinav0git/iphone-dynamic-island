@@ -360,14 +360,14 @@ body{
 }
 
 .content .text:before{
-    content: "MusicArtistName";
+    content: "Kendrick Lamar, Jay Rock";
     order: 1;
     text-transform: uppercase;
 }
 
 .content .text:after{
     order: 2;
-    content: "MusicName";
+    content: "Money Trees";
     opacity: 0.5;
 }
 
